@@ -1,2 +1,3 @@
 # Sravya
-This is my first program.
+This is my first GIT repository.
+Author - Sravya
